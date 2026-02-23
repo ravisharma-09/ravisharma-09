@@ -96,7 +96,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="40"> 2026 DIRECTIVES
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="40"> 2026 DIRECTIVES
 
 - 🚀 Master Advanced Data Structures & Algorithms  
 - 🌐 Build Insane Backend Architectures  
@@ -106,7 +106,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Game%20Die.png" width="40"> RANDOM DEV CHAOS
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Game%20Die.png" width="40"> RANDOM DEV CHAOS
 
 <img src="https://readme-jokes.vercel.app/api?theme=radical" />
 <br>
