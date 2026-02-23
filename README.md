@@ -87,7 +87,7 @@ A project by Ravi Sharma.
 
 ---
 
-# 🏆 GitHub Trophies
+<!-- # 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -95,7 +95,7 @@ A project by Ravi Sharma.
 
 </div>
 
----
+--- -->
 
 # 📈 Contribution Metrics
 
