@@ -44,33 +44,27 @@ I focus on building real-world projects that strengthen problem solving and syst
 
 # 🚀 Featured Projects
 
-## 🔗 LinkUp  
-Responsive frontend project built to master UI fundamentals.  
-**Tech:** HTML • CSS • JavaScript  
+## 🔹 devtrack-elite-tracker  
+A project by Ravi Sharma.  
+**Tech:** TypeScript  
 
 ---
 
-## 📊 StudentDash  
-Student-focused dashboard to manage tasks efficiently.  
-**Tech:** JavaScript • HTML • CSS  
+## 🔹 143_civilizations  
+A project by Ravi Sharma.  
+**Tech:** TypeScript  
 
 ---
 
-## 💰 Expense Splitter  
-Web app to split expenses among friends with clean UI.  
-**Tech:** JavaScript • Firebase • HTML • CSS  
+## 🔹 Expense-Splitter  
+A project by Ravi Sharma.  
+**Tech:** CSS  
 
 ---
 
-## 🧠 DSA Practice Repository  
-Collection of structured DSA problems and solutions.  
-**Tech:** Python • C++  
-
----
-
-## 🌐 Portfolio Website  
-Personal portfolio to showcase projects and skills.  
-**Tech:** HTML • CSS • JavaScript  
+## 🔹 linkipin  
+A project by Ravi Sharma.  
+**Tech:** HTML  
 
 ---
 
