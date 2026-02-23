@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F700FF&height=250&section=header&text=RAVI%20SHARMA&fontSize=80&fontColor=00F7FF&animation=twinkling&desc=GREETINGS%20FROM%20MULTIVERSE%2009&descAlignY=75&descAlign=50" width="100%"/>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" style="vertical-align:middle;"/> 💥 GREETINGS FROM MULTIVERSE 09 💥 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="50" height="50" style="vertical-align:middle;"/>
+<a href="https://github.com/ravisharma-09">
+  <img src="https://komarev.com/ghpvc/?username=ravisharma-09&label=PROFILE+VIEWS&color=F700FF&style=for-the-badge" alt="Profile views" />
+</a>
+<a href="https://www.linkedin.com/in/ravi-sharma-10b1a1384/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=🔥+Future+10x+Engineer!+🔥;⚡+Unstoppable+Coder!+⚡;💻+DSA+Ninja...;🚀+Building+The+Future!+🚀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=🔥+Future+10x+Engineer!+🔥;⚡+Unstoppable+Coder!+⚡;💻+DSA+Ninja...;🚀+Building+The+Future!+🚀;🌌+Welcome+to+my+Digital+Universe!+🌌" alt="Typing SVG" /></a>
 
 <img src="https://i.gifer.com/1GMN.gif" width="600px" style="border-radius:20px; box-shadow: 0px 0px 20px #F700FF; margin-top:20px;">
 
@@ -36,7 +41,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40"> FEATURED CREATIONS 
 
-<img src="https://media1.tenor.com/m/h2sW6m2E7BIAAAAd/hacker-code.gif" width="180" align="right" style="border-radius:10px; margin-left: 10px;">
+<img src="https://media1.tenor.com/m/h2sW6m2E7BIAAAAd/hacker-code.gif" width="180" align="right" style="border-radius:10px; margin-left:10px; margin-right: 15px;">
+
+<div align="left" style="padding-left: 20px;">
 
 ### 🚀 [devtrack-elite-tracker](https://github.com/ravisharma-09/devtrack-elite-tracker)
 > A project by Ravi Sharma.  
@@ -53,6 +60,8 @@
 ### 🚀 [linkipin](https://github.com/ravisharma-09/linkipin)
 > A project by Ravi Sharma.  
 > **Tech:** HTML  
+
+</div>
 
 <div style="clear:both;"></div>
 
