@@ -11,6 +11,12 @@
 
 <br><br>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=🔥+Future+10x+Engineer!+🔥;⚡+Unstoppable+Coder!+⚡;💻+DSA+Ninja...;🚀+Building+The+Future!+🚀;🌌+Welcome+to+my+Digital+Universe!+🌌" alt="Typing SVG" /></a>
+
+<img src="https://i.gifer.com/1GMN.gif" width="600px" style="border-radius:20px; box-shadow: 0px 0px 20px #F700FF; margin-top:20px;">
+
+<br><br>
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="30"> ABOUT ME
 
 ```diff
