@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F700FF&height=250&section=header&text=RAVI%20SHARMA&fontSize=80&fontColor=00F7FF&animation=twinkling&desc=GREETINGS%20FROM%20MULTIVERSE%2009&descAlignY=75&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F700FF&height=250&section=header&text=RAVI%20SHARMA&fontSize=80&fontColor=00F7FF&animation=fadeIn&desc=GREETINGS%20FROM%20MULTIVERSE%2009&descAlignY=75&descAlign=50" width="100%"/>
 
 <a href="https://github.com/ravisharma-09">
   <img src="https://komarev.com/ghpvc/?username=ravisharma-09&label=PROFILE+VIEWS&color=F700FF&style=for-the-badge" alt="Profile views" />
@@ -69,10 +69,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40"> NEURAL LINK STATS
 
+<!-- API DOWN:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravisharma-09&show_icons=true&hide_border=true&theme=radical&ring_color=F700FF" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisharma-09&layout=compact&hide_border=true&theme=radical" />
-
-<br><br>
+-->
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=ravisharma-09&theme=radical&hide_border=true&fire=F700FF&ring=00F7FF" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravisharma-09&theme=tokyo-night&hide_border=true&area=true&bg_color=000000&color=F700FF&line=00F7FF&point=FFFFFF" />
