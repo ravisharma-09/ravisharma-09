@@ -46,8 +46,8 @@ technologies = [ "Node.js", "React", "Firebase", "Tailwind CSS", "Git" ]
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravisharma-09&hide_border=true&theme=radical&show_icons=true&v=1" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisharma-09&hide_border=true&theme=radical&layout=compact&v=1" height="150" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravisharma-09&theme=radical" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravisharma-09&theme=radical&hide_border=true" height="150" alt="GitHub Streak Stats"/>
 </p>
 
 ## 📫 Contact
