@@ -46,8 +46,8 @@ technologies = [ "Node.js", "React", "Firebase", "Tailwind CSS", "Git" ]
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravisharma-09&hide_border=true&theme=radical&show_icons=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisharma-09&hide_border=true&theme=radical&layout=compact" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravisharma-09&hide_border=true&theme=radical&show_icons=true&v=1" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisharma-09&hide_border=true&theme=radical&layout=compact&v=1" height="150" alt="Top Languages"/>
 </p>
 
 ## 📫 Contact
@@ -55,7 +55,7 @@ technologies = [ "Node.js", "React", "Firebase", "Tailwind CSS", "Git" ]
 ```bash
 ❯ curl -X GET https://api.ravisharma.dev/contact
 {
-  "email": "2102508788@svyasa-sas.edu.in",
+  "email": "rravisharma817@gmail.com",
   "github": "https://github.com/ravisharma-09"
 }
 ```
