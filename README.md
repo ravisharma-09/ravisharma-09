@@ -26,8 +26,8 @@ technologies = [ "Node.js", "React", "Firebase", "Tailwind CSS", "Git" ]
 *   **[143 Civilizations](https://github.com/ravisharma-09/143_civilizations)**  
     > An experimental TypeScript project exploring structured data and logic systems.
 
-*   **[Expense Splitter](https://github.com/ravisharma-09/Expense-Splitter)**  
-    > A simple HTML/CSS tool to split expenses between people.
+*   **[My-Portfoilo](https://github.com/ravisharma-09/Portfolio-Ravi)**  
+    > my Portfolio game based took around 35 hr to make
 
 *   **[Linkipin](https://github.com/ravisharma-09/linkipin)**  
     > A lightweight HTML project focused on clean webpage structure and layout.
